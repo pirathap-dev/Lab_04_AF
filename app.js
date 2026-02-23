@@ -61,3 +61,4 @@ async function myFunction() {
 }
 
 myFunction();
+console.log("Friend added success");
