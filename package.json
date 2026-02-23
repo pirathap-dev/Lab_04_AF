@@ -1,0 +1,21 @@
+{
+  "name": "lab_04_af",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pirathap-dev/Lab_04_AF.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/pirathap-dev/Lab_04_AF/issues"
+  },
+  "homepage": "https://github.com/pirathap-dev/Lab_04_AF#readme",
+  "description": ""
+}
